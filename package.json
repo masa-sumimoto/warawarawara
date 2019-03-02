@@ -1,0 +1,35 @@
+{
+  "name": "wara",
+  "version": "0.0.1",
+  "description": "WARA provides smiles on your web text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masa-sumimoto/wara.git"
+  },
+  "keywords": [
+    "wara",
+    "smile",
+    "kaomoji",
+    "kao-moji",
+    "emoji"
+  ],
+  "author": "Masaaki Sumimoto <masa-sumimoto@gmail.com> (https://github.com/masa-sumimoto)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masa-sumimoto/wara/issues"
+  },
+  "homepage": "https://github.com/masa-sumimoto/wara#readme",
+  "devDependencies": {
+    "eslint": "^5.15.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "stylelint": "^9.10.1",
+    "stylelint-config-standard": "^18.2.0"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
