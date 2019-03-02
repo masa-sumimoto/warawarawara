@@ -1,5 +1,5 @@
 # wara
-WARA provides `smiles` on your web text.
+WARAU provides `smiles` on your web text.
 
 ## Description
 This module can insert `smile kaomoji` in your web text.
