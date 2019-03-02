@@ -1,0 +1,2 @@
+// Test
+exports.getSmile = () => '(^ ^)';
