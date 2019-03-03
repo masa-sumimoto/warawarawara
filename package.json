@@ -1,14 +1,14 @@
 {
   "name": "warawarawara",
   "version": "0.0.1",
-  "description": "WARA provides smiles on your web text.",
+  "description": "warawarawara provides smiles on your web text.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/masa-sumimoto/wara.git"
+    "url": "git+https://github.com/masa-sumimoto/warawarawara.git"
   },
   "keywords": [
     "wara",
@@ -20,9 +20,9 @@
   "author": "Masaaki Sumimoto <masa-sumimoto@gmail.com> (https://github.com/masa-sumimoto)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/masa-sumimoto/wara/issues"
+    "url": "https://github.com/masa-sumimoto/warawarawara/issues"
   },
-  "homepage": "https://github.com/masa-sumimoto/wara#readme",
+  "homepage": "https://github.com/masa-sumimoto/warawarawara#readme",
   "devDependencies": {
     "eslint": "^5.15.0",
     "eslint-config-airbnb": "^17.1.0",
